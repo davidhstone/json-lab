@@ -1,0 +1,26 @@
+{
+    "Austin": {
+        "age": "22 months",
+        "temperament": "funny",
+        "appearance": {
+            "eyes": "hazel",
+            "hair": "long"
+        }
+    },
+    "Mandy": {
+        "age": "36",
+        "temperament": "sweet",
+        "appearance": {
+            "eyes": "hazel",
+            "hair": "long"
+        }
+    },
+    "Dave": {
+        "age": "44",
+        "temperament": "surly / funny",
+        "appearance": {
+            "eyes": "brown",
+            "hair": "short"
+        }
+    }
+}

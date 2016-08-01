@@ -1,0 +1,29 @@
+[
+    {
+        "Name": "Mandy",
+        "age": "36",
+        "temperament": "sweet",
+        "appearance": {
+            "eyes": "hazel",
+            "hair": "long"
+        }
+    },
+    {
+        "Name": "Austin",
+        "age": "22 months",
+        "temperament": "funny",
+        "appearance": {
+            "eyes": "hazel",
+            "hair": "long"
+        }
+    },
+    {
+        "Name": "Dave",
+        "age": "44",
+        "temperament": "surly/funny",
+        "appearance": {
+            "eyes": "hazel",
+            "hair": "short"
+        }
+    }
+]
